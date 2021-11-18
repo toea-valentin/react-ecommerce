@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.popover {
+  border-radius: 15px !important;
+  
+}
+
+.popover-body {
+  padding: 5px !important;
+}
+
+.dropdown-toggle::after{
+  display: none !important;
+}

@@ -1,0 +1,8 @@
+.favourites-page .card img {
+  max-height: 295px;
+  width: auto;
+}
+
+.favourites-page a{
+  overflow:hidden;
+}

@@ -1,0 +1,5 @@
+.home-cat img {
+  object-fit: cover;
+  min-height: 330px;
+  max-height: 330px;
+}
