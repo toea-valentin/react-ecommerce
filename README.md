@@ -10,9 +10,17 @@ The cart page displays the selected items, quantity, price and total sum; has th
 
 https://react-ecommerce-demo-4db6a.web.app/
 
-## Images
+## Preview
+
+* Home Page
 
 ![Alt text](./preview/ss1.png?raw=true "Home Page")
+
+* Product Page
+
 ![Alt text](./preview/ss2.png?raw=true "Product Page")
+
+* Cart Page
+
 ![Alt text](./preview/ss3.png?raw=true "Cart")
 
