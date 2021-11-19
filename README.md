@@ -13,6 +13,6 @@ https://react-ecommerce-demo-4db6a.web.app/
 ## Images
 
 ![Alt text](./preview/ss1.png?raw=true "Home Page")
-![Alt text](./preview/ss1.png?raw=true "Product Page")
-![Alt text](./preview/ss1.png?raw=true "Cart")
+![Alt text](./preview/ss2.png?raw=true "Product Page")
+![Alt text](./preview/ss3.png?raw=true "Cart")
 
