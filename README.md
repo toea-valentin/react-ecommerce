@@ -1,13 +1,18 @@
 # JavaScript React Ecommerce
 
-## Functionalitati
+## Description
 
-* Click pe orice categorie - va lista produsele corespunzatoare
+Ecommerce app that has a category page, each with a list of related items.
+Each item has its own page where a user can add to cart or favourites.
+The cart page displays the selected items, quantity, price and total sum; has the ability to remove items. Google and Facebook authentication through Google Firebase.
 
-* Click pe butonul "Adauga in cos" al fiecarui produs(fie din pagina de categorie, fie din pagina de produs) - produsul va fi adaugat in cos. Iconita corepsunzatoare se actualizeaza daca produsul nu exista deja in cos
+## Demo
 
-* Click pe produs - va duce catre pagina produsului
+https://react-ecommerce-demo-4db6a.web.app/
 
-* Click pe "Logare" - va redirecta catre pagina de Login, unde la click pe butonul "Logare cu Google" veti fi redirectionati catre pagina corespunzatoare
+## Images
 
-* Click pe cos(iconita) - va afisa produsele adaugate in cos. La click pe iconita "X" puteti elimina un produs din cos
+![Alt text](./previw/ss1.png?raw=true "Home Page")
+![Alt text](./previw/ss1.png?raw=true "Product Page")
+![Alt text](./previw/ss1.png?raw=true "Cart")
+
